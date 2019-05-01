@@ -5,6 +5,8 @@ brew install python3
 
 brew install git
 
+git clone https://github.com/ChrisPF123/sitemap.git
+
 sudo vi ~/.bash_profile
 
 source .bash_profile
