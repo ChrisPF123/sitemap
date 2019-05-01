@@ -1,0 +1,9 @@
+sitemap.xml
+sitemap_index.xml
+sitemap.xml.gz
+profiles-sitemap.xml
+sitemap.php
+sitemap_index.xml.gz
+sitemap_index.xml.gz
+sitemapindex.xml
+sitemap.gz
