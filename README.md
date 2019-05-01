@@ -13,9 +13,12 @@ sudo vi ~/.bash_profile
 
 alias sitemap='~/Documents/sitemap/sitemap.sh'
 
+cd ~/
+
 source .bash_profile
 
 cd ~/Documents/sitemap
 
 sudo chmod 777 sitemap.sh
+
 sudo chmod 777 url.py
